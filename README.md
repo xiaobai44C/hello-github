@@ -1,5 +1,7 @@
 # hello-github 👋
 
+[![CI](https://github.com/xiaobai44C/hello-github/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaobai44C/hello-github/actions/workflows/ci.yml)
+
 我的第一个 GitHub 仓库，用来练手 Git 和 GitHub 的基本操作。
 
 ## 这个仓库里有什么
